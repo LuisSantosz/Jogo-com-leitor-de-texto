@@ -67,6 +67,7 @@ function reiniciarJogo() {
     document.getElementById('reiniciar').setAttribute('disabled', true)
 }
 
+//https://cursos.alura.com.br/course/git-github-compartilhando-colaborando-projetos/task/139310
 
 
 
